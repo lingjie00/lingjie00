@@ -2,6 +2,8 @@
 
 Hi there, I'm Ling (He/His)
 
+![](https://komarev.com/ghpvc/?username=lingjie00&color=green)
+
 - 🏫 My formal background is in Quantitative Economics and Statistics
 - 🔭 Currently enjoying holiday before working as a data scientist
 - 🌱 I hope to explore more on applying Bayesian statistics and advanced deep learning methods (GAN, Autoencoder, RL) to solve "traditional" business problems, please contact me if you are interested in these topics too!
