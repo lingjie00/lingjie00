@@ -8,7 +8,7 @@ Hi there, I'm Ling (He/His)
 - 🔭 Currently working as a media data scientist, focusing on TV and digital marketing work
 - 🌱 I hope to explore more on applying Bayesian statistics and advanced deep learning methods (GAN, Autoencoder, RL) to solve "traditional" business problems, please contact me if you are interested in these topics too!
 - 💬 I'm open for conversations on applying machine learning and data science methods in economics (including business) and statistics field
-- 📫 You can reach me at lingjie@u.nus.edu
+- 📫 You can reach me at lingjie[at]u.nus.edu
 
 My **workflow** revolves around SSH-ing from
 MacOS to Ubuntu server, using Tmux and Neovim.
