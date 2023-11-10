@@ -4,8 +4,8 @@ Hi there, I'm Ling (He/His)
 
 ![](https://komarev.com/ghpvc/?username=lingjie00&color=green)
 
-- 🏫 My formal background is in Quantitative Economics and Statistics
-- 🔭 Currently working as a media data scientist, focusing on TV and digital marketing work
+- 🏫 My formal background is in Statistics (PhD) and Quantitative Economics
+- 🔭 Currently working as a media data scientist, focusing on TV, digital and eCommerce marketing work
 - 🌱 I hope to explore more on applying Bayesian statistics and advanced deep learning methods (GAN, Autoencoder, RL) to solve "traditional" business problems, please contact me if you are interested in these topics too!
 - 💬 I'm open for conversations on applying machine learning and data science methods in economics (including business) and statistics field
 - 📫 You can reach me at lingjie[at]u.nus.edu
