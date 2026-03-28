@@ -39,10 +39,12 @@ Say hi! <a href="https://www.linkedin.com/in/wang-lingjie/" target="_blank" rel=
 
 ### Bayesian Posterior for Beta-Binomial
 
-Compute the conjugate update for a Beta-Binomial model: $$P(\theta \mid y) \propto \text{Beta}(\alpha + y, \beta + n - y)$$.
+Compute the conjugate update for a Beta-Binomial model:
+
+$$P(\theta \mid y) \propto \text{Beta}(\alpha + y, \beta + n - y)$$.
 
 <div id="bayesian-calculator" style="background:#1A1C23; padding:20px; border-radius:12px; margin:20px auto; max-width:900px; font-family:monospace; color:#D8DEE9;">
-  <div style="margin-bottom:15px; font-size:0.8em; color:#4C566A;">// SYSTEM_RESOLVER_V2.0</div>
+  <div style="margin-bottom:15px; font-size:0.8em; color:#4C566A;"></div>
   <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap:15px; margin-bottom:20px;">
     <div>
       <label style="font-size:0.7em;">PRIOR_ALPHA (α)</label><br>
