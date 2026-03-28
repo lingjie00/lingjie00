@@ -29,7 +29,7 @@ title: Lingjie | Data Science & Statistics
 
 I'm a senior data scientist who loves Bayesian thinking, practical ML, and solving real business problems.
 
-- **PhD in Statistics & Quantitative Economics**
+- **PhD in Statistics**
 - **Expertise:** Marketing analytics, Retail modeling, and Variational Inference
 - **Interests:** Bayesian methods and Applied ML
 
