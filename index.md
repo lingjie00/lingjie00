@@ -33,15 +33,15 @@ I'm a senior data scientist who loves Bayesian thinking, practical ML, and solvi
 - **Expertise:** Marketing analytics, Retail modeling, and Variational Inference
 - **Interests:** Bayesian methods and Applied ML
 
-Say hi! <a href="https://www.linkedin.com/in/wang-lingjie/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;display:inline-flex;align-items:center;gap:8px"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" style="vertical-align:middle;"><path fill="#0A66C2" d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11.75 20h-3v-11h3v11zm-1.5-12.5c-.97 0-1.75-.79-1.75-1.75s.78-1.75 1.75-1.75 1.75.79 1.75 1.75-.78 1.75-1.75 1.75zm13.25 12.5h-3v-5.5c0-1.32-.03-3.01-1.84-3.01-1.84 0-2.12 1.44-2.12 2.92v5.59h-3v-11h2.88v1.5h.04c.4-.76 1.37-1.56 2.82-1.56 3.02 0 3.58 1.99 3.58 4.58v6.48z"/></svg><span style="vertical-align:middle">LinkedIn</span></a>
+Say hi!
+
+<a href="https://www.linkedin.com/in/wang-lingjie/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;display:inline-flex;align-items:center;gap:8px"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" style="vertical-align:middle;"><path fill="#0A66C2" d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11.75 20h-3v-11h3v11zm-1.5-12.5c-.97 0-1.75-.79-1.75-1.75s.78-1.75 1.75-1.75 1.75.79 1.75 1.75-.78 1.75-1.75 1.75zm13.25 12.5h-3v-5.5c0-1.32-.03-3.01-1.84-3.01-1.84 0-2.12 1.44-2.12 2.92v5.59h-3v-11h2.88v1.5h.04c.4-.76 1.37-1.56 2.82-1.56 3.02 0 3.58 1.99 3.58 4.58v6.48z"/></svg><span style="vertical-align:middle">LinkedIn</span></a>
 
 ---
 
 ### Bayesian Posterior for Beta-Binomial
 
-Compute the conjugate update for a Beta-Binomial model:
-
-$$P(\theta \mid y) \propto \text{Beta}(\alpha + y, \beta + n - y)$$.
+Compute the conjugate update for a Beta-Binomial model: P(θ | y) ∝ Beta(α + y, β + n - y)
 
 <div id="bayesian-calculator" style="background:#1A1C23; padding:20px; border-radius:12px; margin:20px auto; max-width:900px; font-family:monospace; color:#D8DEE9;">
   <div style="margin-bottom:15px; font-size:0.8em; color:#4C566A;"></div>
