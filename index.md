@@ -41,7 +41,7 @@ Say hi!
 
 ### Bayesian Posterior for Beta-Binomial
 
-Compute the conjugate update for a Beta-Binomial model: P(θ | y) ∝ Beta(α + y, β + n - y)
+Compute the conjugate update for a Beta-Binomial model: P(θ ∣ y) ∝ Beta(α + y, β + n - y)
 
 <div id="bayesian-calculator" style="background:#1A1C23; padding:20px; border-radius:12px; margin:20px auto; max-width:900px; font-family:monospace; color:#D8DEE9;">
   <div style="margin-bottom:15px; font-size:0.8em; color:#4C566A;"></div>
