@@ -32,6 +32,7 @@ I'm a senior data scientist who loves Bayesian thinking, practical ML, and solvi
 - **PhD in Statistics**
 - **Expertise:** Marketing analytics, Retail modeling, and Variational Inference
 - **Interests:** Bayesian methods and Applied ML
+- **View on AI:** AI turns the impossible into the routine and the tedious into the trivial—it’s a high-leverage tool, not a magic pill for a lack of rigor.
 
 Say hi!
 
